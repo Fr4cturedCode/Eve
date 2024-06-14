@@ -1,0 +1,464 @@
+Abyssal Ore Processing 0
+Acceleration Control 4
+Accounting 0
+Advanced Broker Relations 0
+Advanced Capital Ship Construction 0
+Advanced Contracting 0
+Advanced Drone Avionics 0
+Advanced Industrial Ship Construction 0
+Advanced Industry 0
+Advanced Infomorph Psychology 0
+Advanced Laboratory Operation 0
+Advanced Large Ship Construction 0
+Advanced Mass Production 0
+Advanced Mass Reactions 0
+Advanced Medium Ship Construction 0
+Advanced Planetology 0
+Advanced Small Ship Construction 0
+Advanced Spaceship Command 0
+Advanced Target Management 2
+Advanced Weapon Upgrades 4
+Afterburner 4
+Amarr Battlecruiser 0
+Amarr Battleship 0
+Amarr Carrier 0
+Amarr Core Systems 0
+Amarr Cruiser 0
+Amarr Defensive Systems 0
+Amarr Destroyer 5
+Amarr Dreadnought 0
+Amarr Drone Specialization 0
+Amarr Encryption Methods 0
+Amarr Freighter 0
+Amarr Frigate 3
+Amarr Hauler 0
+Amarr Offensive Systems 0
+Amarr Propulsion Systems 0
+Amarr Starship Engineering 0
+Amarr Strategic Cruiser 0
+Amarr Tactical Destroyer 4
+Amarr Titan 0
+Anchoring 0
+Archaeology 0
+Armor Layering 3
+Armor Rigging 3
+Armored Command 0
+Armored Command Specialist 0
+Assault Frigates 0
+Astrogeology 0
+Astrometric Acquisition 0
+Astrometric Pinpointing 0
+Astrometric Rangefinding 0
+Astrometrics 2
+Astronautic Engineering 0
+Astronautics Rigging 0
+Auto-Targeting Missiles 0
+Biology 2
+Black Ops 0
+Bomb Deployment 0
+Broker Relations 0
+Burst Projector Operation 0
+CPU Management 4
+Caldari Battlecruiser 0
+Caldari Battleship 0
+Caldari Carrier 0
+Caldari Core Systems 0
+Caldari Cruiser 0
+Caldari Defensive Systems 0
+Caldari Destroyer 0
+Caldari Dreadnought 0
+Caldari Drone Specialization 0
+Caldari Encryption Methods 0
+Caldari Freighter 0
+Caldari Frigate 0
+Caldari Hauler 0
+Caldari Offensive Systems 0
+Caldari Propulsion Systems 0
+Caldari Starship Engineering 0
+Caldari Strategic Cruiser 0
+Caldari Tactical Destroyer 0
+Caldari Titan 0
+Capacitor Emission Systems 0
+Capacitor Management 4
+Capacitor Systems Operation 4
+Capital Artillery Specialization 0
+Capital Autocannon Specialization 0
+Capital Beam Laser Specialization 0
+Capital Blaster Specialization 0
+Capital Capacitor Emission Systems 0
+Capital Energy Turret 0
+Capital Hybrid Turret 0
+Capital Industrial Reconfiguration 0
+Capital Industrial Ships 0
+Capital Precursor Weapon 0
+Capital Projectile Turret 0
+Capital Pulse Laser Specialization 0
+Capital Railgun Specialization 0
+Capital Remote Armor Repair Systems 0
+Capital Remote Hull Repair Systems 0
+Capital Repair Systems 0
+Capital Shield Emission Systems 0
+Capital Shield Operation 0
+Capital Ship Construction 0
+Capital Shipboard Compression Technology 0
+Capital Ships 0
+Cloaking 0
+Cloning Facility Operation 0
+Coherent Ore Processing 0
+Command Burst Specialist 0
+Command Center Upgrades 0
+Command Destroyers 0
+Command Ships 0
+Common Moon Ore Processing 0
+Complex Ore Processing 0
+Connections 0
+Contracting 0
+Controlled Bursts 4
+Core Subsystem Technology 0
+Corporation Contracting 0
+Corporation Management 0
+Covert Ops 0
+Criminal Connections 0
+Cruise Missile Specialization 0
+Cruise Missiles 0
+Customs Code Expertise 0
+Cybernetics 4
+Cynosural Field Theory 0
+Daytrading 0
+Deep Core Mining 0
+Defender Missiles 0
+Defensive Subsystem Technology 0
+Diplomacy 0
+Diplomatic Relations 0
+Disruptive Lance Operation 0
+Distribution Connections 0
+Doomsday Operation 0
+Doomsday Rapid Firing 0
+Drone Avionics 0
+Drone Durability 0
+Drone Interfacing 0
+Drone Navigation 0
+Drone Sharpshooting 0
+Drones 0
+Drones Rigging 0
+Drug Manufacturing 0
+EDENCOM Battleship 0
+EDENCOM Cruiser 0
+EDENCOM Frigate 0
+EM Armor Compensation 0
+EM Shield Compensation 0
+Electromagnetic Physics 0
+Electronic Attack Ships 0
+Electronic Engineering 0
+Electronic Superiority Rigging 0
+Electronic Warfare 0
+Electronics Upgrades 0
+Elite Infomorph Psychology 0
+Empire Control 0
+Energy Grid Upgrades 3
+Evasive Maneuvering 4
+Exceptional Moon Ore Processing 0
+Exhumers 0
+Expedition Frigates 0
+Explosive Armor Compensation 0
+Explosive Shield Compensation 0
+Fast Talk 0
+Fighter Hangar Management 0
+Fighters 0
+Flag Cruisers 0
+Fleet Command 0
+Fleet Compression Logistics 0
+Fleet Coordination 0
+Fleet Formations 0
+Frequency Modulation 0
+Fuel Conservation 4
+Gallente Battlecruiser 0
+Gallente Battleship 0
+Gallente Carrier 0
+Gallente Core Systems 0
+Gallente Cruiser 0
+Gallente Defensive Systems 0
+Gallente Destroyer 0
+Gallente Dreadnought 0
+Gallente Drone Specialization 0
+Gallente Encryption Methods 0
+Gallente Freighter 0
+Gallente Frigate 0
+Gallente Hauler 0
+Gallente Offensive Systems 0
+Gallente Propulsion Systems 0
+Gallente Starship Engineering 0
+Gallente Strategic Cruiser 0
+Gallente Tactical Destroyer 0
+Gallente Titan 0
+Gas Cloud Harvesting 0
+Gas Decompression Efficiency 0
+Gravimetric Sensor Compensation 0
+Graviton Physics 0
+Guided Missile Precision 0
+Gunnery 4
+Hacking 0
+Heavy Assault Cruisers 0
+Heavy Assault Missile Specialization 0
+Heavy Assault Missiles 0
+Heavy Drone Operation 0
+Heavy Fighters 0
+Heavy Interdiction Cruisers 0
+Heavy Missile Specialization 0
+Heavy Missiles 0
+High Energy Physics 0
+High Speed Maneuvering 4
+Hull Upgrades 4
+Hybrid Weapon Rigging 0
+Hydromagnetic Physics 0
+Ice Harvesting 0
+Ice Harvesting Drone Operation 0
+Ice Harvesting Drone Specialization 0
+Ice Processing 0
+Industrial Command Ships 0
+Industrial Reconfiguration 0
+Industry 0
+Infomorph Psychology 0
+Infomorph Synchronizing 0
+Information Command 0
+Information Command Specialist 0
+Interceptors 0
+Interdictors 0
+Interplanetary Consolidation 0
+Invulnerability Core Operation 0
+Jump Drive Calibration 0
+Jump Drive Operation 0
+Jump Freighters 0
+Jump Fuel Conservation 0
+Jump Portal Generation 0
+Jury Rigging 3
+Kinetic Armor Compensation 0
+Kinetic Shield Compensation 0
+Laboratory Operation 0
+Ladar Sensor Compensation 0
+Lancer Dreadnoughts 0
+Large Artillery Specialization 0
+Large Autocannon Specialization 0
+Large Beam Laser Specialization 0
+Large Blaster Specialization 0
+Large Disintegrator Specialization 0
+Large Energy Turret 0
+Large Hybrid Turret 0
+Large Precursor Weapon 0
+Large Projectile Turret 0
+Large Pulse Laser Specialization 0
+Large Railgun Specialization 0
+Large Vorton Projector 0
+Large Vorton Specialization 0
+Laser Physics 0
+Launcher Rigging 0
+Leadership 0
+Light Drone Operation 0
+Light Fighters 0
+Light Missile Specialization 0
+Light Missiles 0
+Logistics Cruisers 0
+Logistics Frigates 0
+Long Distance Jamming 0
+Long Range Targeting 3
+Magnetometric Sensor Compensation 0
+Marauders 0
+Marketing 0
+Mass Production 0
+Mass Reactions 0
+Mechanical Engineering 0
+Mechanics 4
+Medium Artillery Specialization 0
+Medium Autocannon Specialization 0
+Medium Beam Laser Specialization 0
+Medium Blaster Specialization 0
+Medium Disintegrator Specialization 0
+Medium Drone Operation 0
+Medium Energy Turret 0
+Medium Hybrid Turret 0
+Medium Precursor Weapon 0
+Medium Projectile Turret 0
+Medium Pulse Laser Specialization 0
+Medium Railgun Specialization 0
+Medium Vorton Projector 0
+Medium Vorton Specialization 0
+Megacorp Management 0
+Mercoxit Ore Processing 0
+Metallurgy 0
+Micro Jump Drive Operation 0
+Mining 0
+Mining Barge 0
+Mining Connections 0
+Mining Director 0
+Mining Drone Operation 0
+Mining Drone Specialization 0
+Mining Foreman 0
+Mining Frigate 0
+Mining Upgrades 0
+Minmatar Battlecruiser 0
+Minmatar Battleship 0
+Minmatar Carrier 0
+Minmatar Core Systems 0
+Minmatar Cruiser 0
+Minmatar Defensive Systems 0
+Minmatar Destroyer 0
+Minmatar Dreadnought 0
+Minmatar Drone Specialization 0
+Minmatar Encryption Methods 0
+Minmatar Freighter 0
+Minmatar Frigate 0
+Minmatar Hauler 0
+Minmatar Offensive Systems 0
+Minmatar Propulsion Systems 0
+Minmatar Starship Engineering 0
+Minmatar Strategic Cruiser 0
+Minmatar Tactical Destroyer 0
+Minmatar Titan 0
+Missile Bombardment 0
+Missile Launcher Operation 0
+Missile Projection 0
+Molecular Engineering 0
+Motion Prediction 4
+Mutated Drone Specialization 0
+Nanite Engineering 0
+Nanite Interfacing 0
+Nanite Operation 2
+Navigation 4
+Negotiation 0
+Neurotoxin Control 0
+Neurotoxin Recovery 0
+Nuclear Physics 0
+ORE Freighter 0
+ORE Hauler 0
+Offensive Subsystem Technology 0
+Outpost Construction 0
+Planetology 0
+Plasma Physics 0
+Power Grid Management 4
+Precursor Battlecruiser 0
+Precursor Battleship 0
+Precursor Cruiser 0
+Precursor Destroyer 0
+Precursor Dreadnought 0
+Precursor Frigate 0
+Procurement 0
+Projectile Weapon Rigging 0
+Propulsion Jamming 3
+Propulsion Subsystem Technology 0
+Quantum Physics 0
+Radar Sensor Compensation 0
+Rapid Firing 4
+Rapid Launch 0
+Rare Moon Ore Processing 0
+Reactions 0
+Recon Ships 0
+Remote Armor Repair Systems 0
+Remote Hull Repair Systems 0
+Remote Reactions 0
+Remote Sensing 0
+Repair Drone Operation 0
+Repair Systems 1
+Reprocessing 0
+Reprocessing Efficiency 0
+Research 0
+Research Project Management 0
+Resistance Phasing 0
+Retail 0
+Rocket Science 0
+Rocket Specialization 0
+Rockets 0
+Salvage Drone Operation 0
+Salvage Drone Specialization 0
+Salvaging 0
+Science 4
+Scientific Networking 0
+Scrapmetal Processing 0
+Security Connections 0
+Sensor Linking 0
+Sentry Drone Interfacing 0
+Sharpshooter 4
+Shield Command 0
+Shield Command Specialist 0
+Shield Compensation 0
+Shield Emission Systems 0
+Shield Management 0
+Shield Operation 0
+Shield Rigging 0
+Shield Upgrades 0
+Shipboard Compression Technology 0
+Signal Dispersion 0
+Signal Suppression 0
+Signature Analysis 3
+Signature Focusing 0
+Signature Masking 0
+Simple Ore Processing 0
+Skirmish Command 0
+Skirmish Command Specialist 0
+Sleeper Encryption Methods 0
+Sleeper Technology 0
+Small Artillery Specialization 0
+Small Autocannon Specialization 0
+Small Beam Laser Specialization 4
+Small Blaster Specialization 0
+Small Disintegrator Specialization 0
+Small Energy Turret 5
+Small Hybrid Turret 0
+Small Precursor Weapon 0
+Small Projectile Turret 0
+Small Pulse Laser Specialization 0
+Small Railgun Specialization 0
+Small Vorton Projector 0
+Small Vorton Specialization 0
+Social 0
+Sovereignty 0
+Spaceship Command 1
+Spatial Phenomena Generation 0
+Starbase Defense Management 0
+Structure Doomsday Operation 0
+Structure Electronic Systems 0
+Structure Engineering Systems 0
+Structure Missile Systems 0
+Supply Chain Management 0
+Support Fighters 0
+Surgical Strike 4
+Survey 0
+Tactical Logistics Reconfiguration 0
+Tactical Shield Manipulation 0
+Tactical Weapon Reconfiguration 0
+Takmahl Technology 0
+Talocan Technology 0
+Target Management 5
+Target Navigation Prediction 0
+Target Painting 0
+Thermal Armor Compensation 0
+Thermal Shield Compensation 0
+Thermodynamics 3
+Torpedo Specialization 0
+Torpedoes 0
+Trade 0
+Trajectory Analysis 4
+Transport Ships 0
+Triglavian Encryption Methods 0
+Triglavian Quantum Engineering 0
+Tycoon 0
+Ubiquitous Moon Ore Processing 0
+Uncommon Moon Ore Processing 0
+Upwell Encryption Methods 0
+Variegated Ore Processing 0
+Visibility 0
+Vorton Arc Extension 0
+Vorton Arc Guidance 0
+Vorton Power Amplification 0
+Vorton Projector Operation 0
+Warhead Upgrades 0
+Warp Drive Operation 0
+Weapon Destabilization 0
+Weapon Disruption 0
+Weapon Upgrades 4
+Wholesale 0
+Wing Command 0
+XL Cruise Missile Specialization 0
+XL Cruise Missiles 0
+XL Torpedo Specialization 0
+XL Torpedoes 0
+Yan Jung Technology 0
